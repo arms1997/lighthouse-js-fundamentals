@@ -1,0 +1,22 @@
+{
+  "name": "lighthouse-js-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chorus-while.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arms1997/lighthouse-js-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arms1997/lighthouse-js-fundamentals/issues"
+  },
+  "homepage": "https://github.com/arms1997/lighthouse-js-fundamentals#readme",
+  "dependencies": {
+    "console-read-write": "^0.1.1"
+  }
+}
