@@ -12,6 +12,7 @@ for(let i = 0; i < ingredients.length; i++){
 }
 
 ingredients.reverse()
+
 for(let i = 0; i< ingredients.length; i++){
 	console.log(ingredients[i])
 }
